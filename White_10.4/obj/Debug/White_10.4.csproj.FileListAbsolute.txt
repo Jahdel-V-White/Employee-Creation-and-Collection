@@ -1,0 +1,10 @@
+E:\C#\White_Ch10\White_10.4\bin\Debug\White_10.4.exe.config
+E:\C#\White_Ch10\White_10.4\bin\Debug\White_10.4.exe
+E:\C#\White_Ch10\White_10.4\bin\Debug\White_10.4.pdb
+E:\C#\White_Ch10\White_10.4\obj\Debug\White_10.4.csproj.AssemblyReference.cache
+E:\C#\White_Ch10\White_10.4\obj\Debug\White_10._4.Properties.Resources.resources
+E:\C#\White_Ch10\White_10.4\obj\Debug\White_10.4.csproj.GenerateResource.cache
+E:\C#\White_Ch10\White_10.4\obj\Debug\White_10.4.csproj.CoreCompileInputs.cache
+E:\C#\White_Ch10\White_10.4\obj\Debug\White_10.4.exe
+E:\C#\White_Ch10\White_10.4\obj\Debug\White_10.4.pdb
+E:\C#\White_Ch10\White_10.4\obj\Debug\White_10._4.EmployeeDataCollection.resources
